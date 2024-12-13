@@ -7,7 +7,8 @@
     <list default="true" id="6d5c1187-7944-4634-bad9-55ea906e7103" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/oracle.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/oracle.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contracts/prediction-market.clar" beforeDir="false" afterPath="$PROJECT_DIR$/contracts/prediction-market.clar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/prediction-market.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/prediction-market.test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734068415030</updated>
-      <workItem from="1734068416182" duration="368000" />
+      <workItem from="1734068416182" duration="490000" />
     </task>
     <servers />
   </component>

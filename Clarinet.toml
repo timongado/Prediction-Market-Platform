@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.liquidity-pool]
+path = 'contracts/liquidity-pool.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.oracle]
 path = 'contracts/oracle.clar'
 clarity_version = 2

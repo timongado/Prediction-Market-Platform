@@ -7,3 +7,7 @@ D
 tests/oracle.test.ts,a/0/a01d33af3d01e43d4c5e519c62c3403f188dab8e
 P
  contracts/prediction-market.clar,9/1/9108d17c8cc728671489da32eff0fa44c224c657
+O
+tests/prediction-market.test.ts,3/b/3b14a75d262f48b83e3f0eab08e73dee3819cf3b
+M
+contracts/liquidity-pool.clar,f/b/fb28643b528e585a74e617d158c5a82ef9a2dde7
